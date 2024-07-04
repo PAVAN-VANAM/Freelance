@@ -7,7 +7,6 @@ import Box from "@mui/joy/Box";
 import HomeRoundedIcon from "@mui/icons-material/HomeRounded";
 import ChevronRightRoundedIcon from "@mui/icons-material/ChevronRightRounded";
 import DownloadRoundedIcon from "@mui/icons-material/DownloadRounded";
-import OrderTable from "@/components/Dashboard/OrderTable";
 
 export default function page() {
   return (
